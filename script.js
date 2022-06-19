@@ -33,5 +33,5 @@ fetch(`${proxyURL}${baseURL}`,{
         })
     }
 }).catch((error) => {
-    console.log(error);
+    alert(error);
 })
