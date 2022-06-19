@@ -1,4 +1,5 @@
-# Crypto Currency Ranking dashboard using Javascript / JavaScript fetch API Project
+# 💲Crypto Currency Ranking dashboard using Javascript
+### JavaScript fetch API Project
 ### You will get the live information list of all crypto currencies with their ranking, price,uuid and other related information.
 ## Prerequistics:
 <ul>
