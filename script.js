@@ -1,6 +1,6 @@
 let baseURL = "https://api.coinranking.com/v2/coins";
 let proxyURL = "https://cors-anywhere.herokuapp.com/";
-let apiKey = "coinranking31fc5c78c6578c364531d7fd5c2a06c7e84caa6296d91181";
+let apiKey = "past your api key here";
 
 fetch(`${proxyURL}${baseURL}`,{
     method: "GET",
