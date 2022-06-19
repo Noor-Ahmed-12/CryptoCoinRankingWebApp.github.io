@@ -45,3 +45,10 @@ body{
     color: #edf2f4;
     font-size: 24px;
 }
+footer{
+    color: #edf2f4;
+    border-top: 1px solid #fb5607;
+    border-bottom: 1px solid #fb5607;
+    text-align: center;
+    margin-top: 20px;
+}
