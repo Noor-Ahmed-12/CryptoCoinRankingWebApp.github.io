@@ -10,6 +10,9 @@
 ## Snapshot of dashboard
 ![screencapture-file-F-web-dev-practice-JS-coinRankingAPI-index-html-2022-06-19-10_51_20](https://user-images.githubusercontent.com/60597502/174492457-e743a794-94a7-40bd-ab45-4f652eea5caf.png)
 
+
+<h1><a href="https://noor-ahmed-12.github.io/CryptoCoinRankingWebApp.github.io/">😎Live Demo</a></h1>
+
 ## Get in Touch for amazing web projects
 ![](https://komarev.com/ghpvc/?username=Noor-Ahmed-12)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4)
