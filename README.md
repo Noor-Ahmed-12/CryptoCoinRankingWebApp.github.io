@@ -1,4 +1,4 @@
-# Crypto Coin Ranking dashboard using Javascript
+# Crypto Currency Ranking dashboard using Javascript
 ### You will get the live information list of all crypto currencies with their ranking, price,uuid and other related information.
 ## Prerequistics:
 <ul>
