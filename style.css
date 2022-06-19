@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #001d3d;
+}
+.crypto-nav-bar{
+    height: 80px;
+    background-color: #2f3e46;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+.crypto-nav-bar:hover{
+    color: #FFFFFF;
+}
+.navbar{
+    padding-top: 10px;
+}
+.navbar-brand, 
+.nav-link{
+    color: #edf2f4;
+    font-size: 2.4rem;
+}
+.form-inline button{
+    border-color: #fb5607;
+    color:#fb5607;
+}
+.form-inline button:hover{
+    background-color: #fb5607;
+    border-color: #fb5607;
+}
+.table{
+    margin: auto;
+    width: 95%;
+    color: #edf2f4;
+    font-size: 18px;
+}
+.table thead{
+    background-color: #011627;
+    color: #edf2f4;
+    font-size: 24px;
+}
